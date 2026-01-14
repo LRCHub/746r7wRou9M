@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シャクナツめんそーれ！",
+  "base_artist": "夢喰NEON",
+  "createdAt": "2026-01-14T01:15:36.839310Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャクナツめんそーれ!",
+      "artist": "夢喰NEON",
+      "has_synced": false,
+      "path": "select/pl_01_シャクナツめんそーれ!_夢喰NEON.txt"
+    }
+  ]
+}
